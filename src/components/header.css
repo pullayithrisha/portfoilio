@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(28, 27, 27);
+}
+.headerclass
+{
+    display:flex;
+    margin-left: 50%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.headerclass a{
+    text-decoration: none;
+    color: rgb(80, 197, 232);
+    font-size: 20px;
+    padding: 20px;
+    font-family:cursive;
+}
