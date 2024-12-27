@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfoilio/static/css/main.9a21f5b9.css",
+    "main.js": "/portfoilio/static/js/main.d6f3cd2d.js",
+    "static/media/MMS.jpg": "/portfoilio/static/media/MMS.be2dbd95ba91ff363218.jpg",
+    "static/media/thrishabg.png": "/portfoilio/static/media/thrishabg.eb7671f5d8604589818d.png",
+    "static/media/gptc.jpg": "/portfoilio/static/media/gptc.d87396c0509c829f5463.jpg",
+    "static/media/cbit.jpg": "/portfoilio/static/media/cbit.950b0a1135631576fe60.jpg",
+    "index.html": "/portfoilio/index.html",
+    "main.9a21f5b9.css.map": "/portfoilio/static/css/main.9a21f5b9.css.map",
+    "main.d6f3cd2d.js.map": "/portfoilio/static/js/main.d6f3cd2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a21f5b9.css",
+    "static/js/main.d6f3cd2d.js"
+  ]
+}
