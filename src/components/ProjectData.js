@@ -15,7 +15,7 @@ const projectData = [
     {
       name: 'Portfolio',
       description: 'A web application that describes me and my projects and skills.',
-      link: 'https://github.com/',
+      link: 'https://pullayithrisha.github.io/portfoilio/',
       techstack: ['React'],
     },
   ];
